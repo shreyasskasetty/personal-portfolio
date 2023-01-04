@@ -19,7 +19,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               <br />
-              I am deeply interested in the development of &nbsp;
+              I am interested in the development of &nbsp;
               <i>
                 <b className="purple">Interactive Software System &nbsp;</b>   
               </i>
