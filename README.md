@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="" target="_blank">sskasetty.codes</a>
+  <a href="" target="_blank"> https://sskasetty.codes</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/demo-snapshot.png" />
