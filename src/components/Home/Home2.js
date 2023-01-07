@@ -39,7 +39,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
+              I like developing my products
               with <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
@@ -49,8 +49,9 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js and Next.js</b> 
               </i>
+              which helps actualising some of my ideas.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -62,9 +63,6 @@ function Home2() {
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
-            <p>
-              Feel free to <span className="purple">connect </span>with me
-            </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a

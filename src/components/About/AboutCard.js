@@ -11,8 +11,10 @@ function AboutCard() {
             Hi Everyone, I am <strong>Shreyas Shivakumar Kasetty </strong>
             from <strong> Bengaluru, India.</strong>
             <br />I am a Software Engineering working at Cisco Systems Pvt. Ltd building software 
-             for next-generation Optical Line Systems.
-
+             for next-generation Optical Line Systems. 
+             <br/>
+             <br/>
+             I believe that the true measure of success is not in the achievements we accumulate, but the positive impacts we have on the world around us. I strive to build things that make a tangible difference, that improve the lives of others, and leave a lasting legacy of kindness and compassion
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -31,12 +33,6 @@ function AboutCard() {
               <ImPointRight /> Photography
             </li>
           </ul>
-
-          <p style={{ color: "rgb(20 39 78)" }}>
-          "The true measure of success is not in the achievements we accumulate, but in the positive impacts we have on the world around us.
-           Let us strive to build things that make a difference, that improves the lives of others, and that leave a lasting legacy of kindness and compassion."{" "}
-          </p>
-          <footer className="blockquote-footer"><strong>Shreyas S Kasetty</strong></footer>
         </blockquote>
       </Card.Body>
     </Card>
