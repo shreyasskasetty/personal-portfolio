@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify", color: "rgb(20 39 78)"}}>
             Hi Everyone, I am <strong>Shreyas Shivakumar Kasetty </strong>
             from <strong> Bengaluru, India.</strong>
-            <br />I am a Software Engineering working at Cisco Systems Pvt. Ltd building software 
+            <br />I am a Software Developer working at Cisco Systems Pvt. Ltd building software 
              for next-generation Optical Line Systems. 
              <br/>
              <br/>
