@@ -65,7 +65,6 @@ function Projects() {
               isGithub={false}
               title="Interactive Component Analyser for Optical Network Devices"
               description="The Interactive Component Analyser for Optical Network Devices is a tool that helps users monitor and troubleshoot failures in an optical line system. It includes an interactive circuit path and a dashboard that can be accessed by all network devices through a secure shell connection. The tool allows users to trace the real-time power of an optical signal by monitoring photodiodes at various points in the circuit. To use the tool, users must login to the devices using an IP address and password. This tool is designed to help users identify and resolve issues with their optical network devices in a timely and efficient manner."
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
           <Col md={4} className="project-card">
@@ -75,7 +74,6 @@ function Projects() {
               isGithub={false}
               title="Automation Framework for faster Integration of Optical Line System Firmwares"
               description="This project involved the development of a python test framework to streamline and accelerate the process of integrating third-party vendor firmware into network optical line systems. The framework was designed to address the challenges of testing and evaluating complex use cases, such as Finite State Machine transitions in safety conditions, and to be flexible enough to incorporate more complex use cases in the future. The final product was intended to serve as a standard for firmware integration in the optical line system industry, addressing common challenges in testing embedded systems."
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
         </Row>
