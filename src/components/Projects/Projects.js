@@ -5,6 +5,8 @@ import can from "../../Assets/Projects/can.png";
 import printlysoftware from "../../Assets/Projects/printly-desktop.png";
 import printlymobile from "../../Assets/Projects/PrintlyMobileApp.png";
 import automation_framework from "../../Assets/Projects/automation_framework.png"
+import smartfly from "../../Assets/Projects/smartfly.png"
+import ShadowAnalysis from "../../Assets/Projects/ShadowAnalysis.png"
 
 function Projects() {
   return (
@@ -14,6 +16,26 @@ function Projects() {
          <span style={{ color: "black" }}> My </span><strong className="purple">Projects</strong>
         </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={smartfly}
+              isBlog={false}
+              isGithub={true}
+              title="Smart Fly"
+              description="SmartFly is an innovative airport time management application developed as a prototype for the American Airlines challenge at the tamuhackx hackathon hosted by Texas A&M University. Designed to optimize the travel experience, SmartFly integrates real-time updates and personalized recommendations, ensuring that travelers are efficiently guided through the airport and can enjoy their time before boarding their flights"
+              ghLink="https://github.com/shreyasskasetty/SmartFly"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ShadowAnalysis}
+              isBlog={false}
+              isGithub={true}
+              title="Shadow Analysis"
+              description="The Shadow Analysis project is part of the Smart Construction Smart City & Smart Building Research Lab evaluation at Texas A&M University. It focuses on performing shadow analysis using a Python application, containerized for AWS deployment, and integrates data storage in MongoDB."
+              ghLink="https://github.com/shreyasskasetty/shadow-analysis"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={printlysoftware}

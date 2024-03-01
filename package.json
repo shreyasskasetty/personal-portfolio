@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://sskasetty.codes/",
+  "homepage": "https://shreyasskasetty.github.io/my_portfolio_website/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
