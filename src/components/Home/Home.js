@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import homeLogo from "../../Assets/Profile-Photo.png";
+import homeLogo from "../../Assets/circular-profile-pic.png";
 import Home2 from "./Home2";
 import Type from "./Type";
 
@@ -33,7 +33,7 @@ function Home() {
                 src={homeLogo}
                 alt="home pic"
                 className="img-fluid"
-                style={{ maxHeight: "450px" }}
+                style={{ maxHeight: "350px" }}
               />
             </Col>
           </Row>
